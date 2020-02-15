@@ -47,3 +47,9 @@
         sslverify = no
 [diff]
         algorithm = patience
+[user]
+	name = Michael Smith
+	email = a.michael.smith1@gmail.com
+
+[tig] 
+  vertical-split = off
