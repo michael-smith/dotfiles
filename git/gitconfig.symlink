@@ -51,5 +51,5 @@
 	name = Michael Smith
 	email = a.michael.smith1@gmail.com
 
-[tig] 
-  vertical-split = off
+[tig]
+  vertical-split = false
